@@ -1,5 +1,4 @@
 # hello-world
-testing
 
-hello
-bobo ka
+Hello.
+Bobo ka.
